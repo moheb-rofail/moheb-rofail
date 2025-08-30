@@ -1,5 +1,25 @@
-# My English website
+# Hi there
 
-It's coded in client side technolgies only, because the hosting neocities as a free hosting allows client side languages only to be served there.
+Programming enables us to implement solutions to every problem!
 
-It uses a widget for the commenting system, which depends on google drive to serve comments, and (it may do the same for posts too, but I chosed to serve it in the neocities hosting itself).
+Hello,
+✓I am a passionate web developer with over 10 years of experience.
+✓I have experience in programming since late 2009
+
+✓ I will develop websites using the web languages
+• PHP, OOP Programming
+• JavaScript, JQuery, Angular, NodeJs
+• Laravel Framework
+• MYSQL Database
+• HTML, HTML5
+• CSS, CSS3, Bootstrap
+
+✓ I have a good knowledge of the following:
+• Git, GitHub
+• Codeigniter Framework
+• Responsive Designs
+• cPanel and hostings in general
+• Apache
+• Python, Web Scraping
+• C, C++, Java, SQLite
+• Ubuntu and other Linux distributions
