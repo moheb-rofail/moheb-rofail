@@ -126,7 +126,7 @@ q {
 }
 
 .regular-page-width {
-  width:60%;
+  width:90%;
   margin: auto;
 }
 
@@ -167,4 +167,14 @@ footer {
 
 nav, header, footer {
     background-color: #fbdc96 !important;
+}
+
+/* Swiper styles */
+.swiper {
+  height: 300px;
+}
+.swiper-slide{
+  width: 400px !important;
+  background-color: yellow;
+  padding: 10px;
 }
